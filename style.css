@@ -44,7 +44,8 @@ button {
 }
 
 button:hover {
-  background-color: #e6b800;
+  background-color: #00d3e6;
+  color: white;
 }
 
 #battle-log {
